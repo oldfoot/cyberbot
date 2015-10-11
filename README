@@ -1,0 +1,15 @@
+CYBERBOT
+
+This was a simple project I created back in about 2005. It's a simple articificial intelligence modelling language app
+that allows you to ahve a basic conversation with a computer program.
+
+You need:
+PHP
+mySQL
+a web browser
+a web server
+
+I recomment downloading XAMPP from Apache Friends (Google it)
+
+Install the database from db/, copy the files to your home directory (e.g. c:/xampp/htdocs/cyberbot or /var/www/html) and then open your browser
+and it should all work. You might need to look at the config.php file and make changes.
